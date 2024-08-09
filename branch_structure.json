@@ -1,0 +1,21 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "feat/change-password",
+    "feat/profile-update",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "feat/change-password": "dev",
+    "feat/profile-update": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "feat/change-password",
+    "feat/profile-update",
+    "origin"
+  ]
+}
