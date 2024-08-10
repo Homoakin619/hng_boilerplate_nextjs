@@ -39,3 +39,5 @@ next-env.d.ts
 
 # react email
 /.react-email
+temp_auto_push.bat
+temp_interactive_push.bat
